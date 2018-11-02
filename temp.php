@@ -8,7 +8,7 @@ if ($temp<=20){
   echo "the weather is just perfect"."<br>";
 }elseif ($temp>=30 && $temp<40) {
     echo "It so hot today"."<br>";
-} elseif ($tem>=40){
+} elseif ($temp>=40){
     echo "Am in sahara desert"."<br>";
 }else {
     echo "enter a valid input";
